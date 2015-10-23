@@ -1,2 +1,2 @@
-flower==0.7.3
+flower==0.8.3
 redis==2.10.3
